@@ -50,6 +50,6 @@ p {
   color: #326a9d;
   height: 40px;
   width: 100px;
-  border-style: 3px solid #326a9d;
+  border: 3px solid #326a9d;
   border-radius: 7px;
 }
